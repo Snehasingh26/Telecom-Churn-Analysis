@@ -1,0 +1,39 @@
+Steps for Exploratory Data Analysis of Telecom Churn on IBM Cloud
+
+1. Set Up IBM Cloud Services
+
+Create an IBM Cloud account if you don't have one.
+Set up necessary IBM Cloud services, such as IBM Watson Studio, IBM Cloud Object Storage, and IBM Watson Analytics.
+Create a Project in IBM Watson Studio
+
+2. Open IBM Watson Studio.
+Create a new project and give it a name.
+Add necessary services to the project, such as Cloud Object Storage.
+Upload the Data
+
+Upload your telecom churn dataset to IBM Cloud Object Storage.
+Ensure the dataset is in a readable format (e.g., CSV).
+Load the Data into a Notebook
+
+3. Create a new Jupyter notebook in IBM Watson Studio.
+Use the pandas library to load the data from IBM Cloud Object Storage.
+
+4. Explore the Data
+Get a quick overview of the dataset.
+Data Cleaning
+
+5. Check for missing values and handle them appropriately.
+Convert data types if necessary.
+Data Visualization
+
+Use matplotlib and seaborn to create visualizations.
+
+Feature Analysis
+
+6. Analyze key features that may contribute to churn.
+Summary of Findings
+
+7. Summarize the key insights and patterns identified during the analysis.
+Save and Share the Notebook
+
+8. Save the notebook and export it as a .ipynb file.
