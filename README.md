@@ -1,1 +1,2 @@
 # Telecom-Churn-Analysis
+Telecom Churn Analysis is an exploratory data analysis (EDA) project that aims to understand the reasons behind customer churn in a telecom company using IBM Cloud. The goal is to analyze the data, identify patterns, and derive insights that can help in reducing churn rates. This project involves data cleaning, visualization, and interpretation of key metrics on IBM Cloud.
